@@ -151,5 +151,7 @@ The app monitors **90+ locations** across all major regions of Greece:
 | **Language** | English UI | Greek UI (Ελληνικά) |
 
 
-Screenshot from the website
+## Screenshot from the website
+
 <img width="1729" height="2214" alt="556398372-7f3e7f0f-f89b-4381-a36a-c5c69b25013b" src="https://github.com/user-attachments/assets/814f3b77-b191-46eb-940c-2804d229e028" />
+
